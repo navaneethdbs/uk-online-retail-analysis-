@@ -1,0 +1,401 @@
+customerid,recency,frequency,monetary,R_score,F_score,M_score,segment
+12346,347,12,77556.46,1,4,4,"At Risk"
+12347,24,8,5633.32,4,3,4,"Loyal Customer"
+12348,97,5,2019.4,2,3,3,"At Risk"
+12349,40,4,4428.69,3,2,3,"Potential Loyalist"
+12350,332,1,334.4,1,1,1,Lost
+12351,397,1,300.93,1,1,1,Lost
+12352,58,10,2849.84,3,4,3,"Loyal Customer"
+12353,226,2,406.76,1,2,1,"Potential Loyalist"
+12354,254,1,1079.4,1,1,3,Lost
+12355,236,2,947.61,1,2,2,"Potential Loyalist"
+12356,44,6,6373.68,3,3,4,"Loyal Customer"
+12357,55,3,18287.66,3,2,4,"Potential Loyalist"
+12358,23,5,3887.07,4,3,3,"Loyal Customer"
+12359,79,10,8935.94,3,4,4,"Loyal Customer"
+12360,74,8,4252.89,3,3,3,"Loyal Customer"
+12361,309,4,511.25,1,2,2,"Potential Loyalist"
+12362,25,11,5356.23,4,4,4,Champion
+12363,131,2,552,2,2,2,"Potential Loyalist"
+12364,29,4,1313.1,4,2,3,"New Customer"
+12365,313,2,641.38,1,2,2,"Potential Loyalist"
+12366,655,1,500.24,1,1,2,Lost
+12367,26,1,168.9,4,1,1,"New Customer"
+12368,650,1,917.7,1,1,2,Lost
+12369,435,3,1791.15,1,2,3,"Potential Loyalist"
+12370,73,7,4320.31,3,3,3,"Loyal Customer"
+12371,66,5,4067.38,3,3,3,"Loyal Customer"
+12372,93,3,1298.04,2,2,3,"Potential Loyalist"
+12373,333,3,1127.65,1,2,3,"Potential Loyalist"
+12374,47,4,2989.22,3,2,3,"Potential Loyalist"
+12375,32,2,457.5,3,2,1,"Potential Loyalist"
+12376,411,2,503.15,1,2,2,"Potential Loyalist"
+12377,337,4,3426.32,1,2,3,"Potential Loyalist"
+12378,151,2,5416.32,2,2,4,"Potential Loyalist"
+12379,103,4,1620.22,2,2,3,"Potential Loyalist"
+12380,43,11,9676.3,3,4,4,"Loyal Customer"
+12381,26,5,1845.31,4,3,3,"Loyal Customer"
+12383,206,5,1850.56,1,3,3,"At Risk"
+12384,50,2,585.27,3,2,2,"Potential Loyalist"
+12385,401,1,1938.4,1,1,3,Lost
+12386,359,2,660.8,1,2,2,"Potential Loyalist"
+12387,437,1,143.94,1,1,1,Lost
+12388,37,8,3901.11,3,3,3,"Loyal Customer"
+12389,424,3,1433.33,1,2,3,"Potential Loyalist"
+12390,101,1,549.84,2,1,2,"Potential Loyalist"
+12391,43,6,2773.42,3,3,3,"Loyal Customer"
+12392,613,1,234.75,1,1,1,Lost
+12393,94,6,2399.45,2,3,3,"At Risk"
+12394,85,2,1272.48,3,2,3,"Potential Loyalist"
+12395,41,15,5067.27,3,4,4,"Loyal Customer"
+12396,696,1,931.43,1,1,2,Lost
+12397,57,2,2409.9,3,2,3,"Potential Loyalist"
+12398,67,1,1635.66,3,1,3,"Potential Loyalist"
+12399,141,7,1962.3,2,3,3,"At Risk"
+12400,436,1,205.25,1,1,1,Lost
+12401,325,1,84.3,1,1,1,Lost
+12402,345,6,1256.9,1,3,3,"At Risk"
+12403,71,2,1019.36,3,2,3,"Potential Loyalist"
+12404,704,1,63.24,1,1,1,Lost
+12405,170,1,1710.39,2,1,3,"Potential Loyalist"
+12406,44,5,6390.36,3,3,4,"Loyal Customer"
+12407,71,5,1708.12,3,3,3,"Loyal Customer"
+12408,54,8,4340.77,3,3,3,"Loyal Customer"
+12409,100,7,23419.29,2,3,4,"At Risk"
+12410,330,3,1013.71,1,2,3,"Potential Loyalist"
+12411,431,1,346.9,1,1,1,Lost
+12412,96,6,2596.93,2,3,3,"At Risk"
+12413,88,4,999.45,3,2,2,"Potential Loyalist"
+12414,239,6,952.41,1,3,2,"Potential Loyalist"
+12415,46,28,144458.37,3,4,4,"Loyal Customer"
+12416,678,1,202.56,1,1,1,Lost
+12417,25,20,6816.91,4,4,4,Champion
+12418,134,4,2021.2,2,2,3,"Potential Loyalist"
+12419,407,2,503.01,1,2,2,"Potential Loyalist"
+12420,85,1,600.39,3,1,2,"Potential Loyalist"
+12421,37,6,1098.6,3,3,3,"Loyal Customer"
+12422,117,17,5231.8,2,4,4,"At Risk"
+12423,22,10,2622.39,4,4,3,"Loyal Customer"
+12424,184,4,3340.03,1,2,3,"Potential Loyalist"
+12425,100,2,1741.41,2,2,3,"Potential Loyalist"
+12426,216,2,1345.21,1,2,3,"Potential Loyalist"
+12427,43,3,1129.3,3,2,3,"Potential Loyalist"
+12428,47,9,7956.46,3,3,4,"Loyal Customer"
+12429,31,8,7485.91,3,3,4,"Loyal Customer"
+12430,65,1,256.4,3,1,1,"Potential Loyalist"
+12431,57,27,10857.97,3,4,4,"Loyal Customer"
+12432,64,5,5059.32,3,3,4,"Loyal Customer"
+12433,22,10,20581.26,4,4,4,Champion
+12434,106,3,1103.43,2,2,3,"Potential Loyalist"
+12435,101,6,13925.93,2,3,4,"At Risk"
+12436,121,1,509.01,2,1,2,"Potential Loyalist"
+12437,23,39,12683.4,4,4,4,Champion
+12438,36,2,2906.85,3,2,3,"Potential Loyalist"
+12439,704,2,1158.18,1,2,3,"Potential Loyalist"
+12440,484,2,859.2,1,2,2,"Potential Loyalist"
+12441,388,1,347.1,1,1,1,Lost
+12442,25,1,172.06,4,1,1,"New Customer"
+12443,754,1,485.31,1,1,1,Lost
+12444,43,5,5005.46,3,3,4,"Loyal Customer"
+12445,44,2,434.98,3,2,1,"Potential Loyalist"
+12446,79,1,1002.31,3,1,3,"Potential Loyalist"
+12447,265,1,476.49,1,1,1,Lost
+12448,66,1,449.45,3,1,1,"Potential Loyalist"
+12449,44,6,4835.89,3,3,3,"Loyal Customer"
+12450,178,5,688.2,2,3,2,"Potential Loyalist"
+12451,32,8,12669.88,3,3,4,"Loyal Customer"
+12452,38,2,430.57,3,2,1,"Potential Loyalist"
+12453,156,1,707.09,2,1,2,"Potential Loyalist"
+12454,78,5,16679.78,3,3,4,"Loyal Customer"
+12455,95,10,5879.95,2,4,4,"At Risk"
+12456,66,3,3181.04,3,2,3,"Potential Loyalist"
+12457,88,8,2995.91,3,3,3,"Loyal Customer"
+12458,93,4,1777.49,2,2,3,"Potential Loyalist"
+12459,627,1,454.36,1,1,1,Lost
+12460,478,1,326.65,1,1,1,Lost
+12461,116,2,826.88,2,2,2,"Potential Loyalist"
+12462,40,2,1189.59,3,2,3,"Potential Loyalist"
+12463,75,4,1344.78,3,2,3,"Potential Loyalist"
+12464,32,8,1212.05,3,3,3,"Loyal Customer"
+12465,39,2,742.19,3,2,2,"Potential Loyalist"
+12466,704,1,56.73,1,1,1,Lost
+12467,445,1,132.8,1,1,1,Lost
+12468,209,5,3670.74,1,3,3,"At Risk"
+12469,544,2,3070.54,1,2,3,"Potential Loyalist"
+12470,711,1,211.95,1,1,1,Lost
+12471,24,79,39963.79,4,4,4,Champion
+12472,54,19,17880.59,3,4,4,"Loyal Customer"
+12473,51,5,3938.55,3,3,3,"Loyal Customer"
+12474,39,31,12424.45,3,4,4,"Loyal Customer"
+12475,75,2,1149.64,3,2,3,"Potential Loyalist"
+12476,37,23,14115.41,3,4,4,"Loyal Customer"
+12477,44,9,20276.37,3,3,4,"Loyal Customer"
+12478,25,1,680.99,4,1,2,"New Customer"
+12479,33,1,527.2,3,1,2,"Potential Loyalist"
+12480,50,7,5464.85,3,3,4,"Loyal Customer"
+12481,44,15,12361.39,3,4,4,"Loyal Customer"
+12482,598,29,23691.4,1,4,4,"At Risk"
+12483,39,19,5120.58,3,4,4,"Loyal Customer"
+12484,54,12,6370.15,3,4,4,"Loyal Customer"
+12485,551,1,708.1,1,1,2,Lost
+12486,453,1,1037.28,1,1,3,Lost
+12487,752,1,285.3,1,1,1,Lost
+12488,31,3,1298.66,3,2,3,"Potential Loyalist"
+12489,358,1,334.93,1,1,1,Lost
+12490,27,21,9823.64,4,4,4,Champion
+12491,60,1,460.4,3,1,1,"Potential Loyalist"
+12492,85,3,715.21,3,2,2,"Potential Loyalist"
+12493,187,2,433.74,1,2,1,"Potential Loyalist"
+12494,37,9,1872.87,3,3,3,"Loyal Customer"
+12495,662,1,357.4,1,1,1,Lost
+12496,642,2,54.09,1,2,1,"Potential Loyalist"
+12497,103,3,6248.5,2,2,4,"Potential Loyalist"
+12498,43,3,403.7,3,2,1,"Potential Loyalist"
+12499,582,1,393.72,1,1,1,Lost
+12500,45,19,5955.21,3,4,4,"Loyal Customer"
+12501,358,1,2169.39,1,1,3,Lost
+12502,117,5,3723.87,2,3,3,"At Risk"
+12503,606,1,1126,1,1,3,Lost
+12504,40,4,779.05,3,2,2,"Potential Loyalist"
+12505,430,1,955.2,1,1,2,Lost
+12506,254,1,73.5,1,1,1,Lost
+12507,156,4,1844.06,2,2,3,"Potential Loyalist"
+12508,48,2,398.27,3,2,1,"Potential Loyalist"
+12509,306,1,176.5,1,1,1,Lost
+12510,164,9,5178.02,2,3,4,"At Risk"
+12511,450,1,3084.02,1,1,3,Lost
+12512,88,2,138.03,3,2,1,"Potential Loyalist"
+12513,134,1,612.29,2,1,2,"Potential Loyalist"
+12514,289,2,1597.76,1,2,3,"Potential Loyalist"
+12515,375,1,383.7,1,1,1,Lost
+12516,99,4,2648.62,2,2,3,"Potential Loyalist"
+12517,50,5,2502.84,3,3,3,"Loyal Customer"
+12518,22,5,2056.89,4,3,3,"Loyal Customer"
+12519,85,2,726.54,3,2,2,"Potential Loyalist"
+12520,101,5,2634.26,2,3,3,"At Risk"
+12521,164,1,599.68,2,1,2,"Potential Loyalist"
+12522,61,2,192.72,3,2,1,"Potential Loyalist"
+12523,41,23,4372.15,3,4,3,"Loyal Customer"
+12524,31,17,11126.11,3,4,4,"Loyal Customer"
+12525,520,3,973.73,1,2,2,"Potential Loyalist"
+12526,22,3,1316.66,4,2,3,"New Customer"
+12527,103,5,735.51,2,3,2,"Potential Loyalist"
+12528,31,6,1933.48,3,3,3,"Loyal Customer"
+12529,550,1,316.48,1,1,1,Lost
+12530,81,9,3759.26,3,3,3,"Loyal Customer"
+12531,36,2,1933.2,3,2,3,"Potential Loyalist"
+12532,52,1,349.83,3,1,1,"Potential Loyalist"
+12533,649,2,1367.89,1,2,3,"Potential Loyalist"
+12534,152,1,1089.18,2,1,3,"Potential Loyalist"
+12535,113,2,716.35,2,2,2,"Potential Loyalist"
+12536,65,3,12601.83,3,2,4,"Potential Loyalist"
+12537,430,1,732.94,1,1,2,Lost
+12538,51,2,640.45,3,2,2,"Potential Loyalist"
+12539,44,7,11214.75,3,3,4,"Loyal Customer"
+12540,41,33,22254.49,3,4,4,"Loyal Customer"
+12541,51,3,981.18,3,2,2,"Potential Loyalist"
+12542,506,2,481.88,1,2,1,"Potential Loyalist"
+12543,470,1,980.25,1,1,2,Lost
+12544,58,1,372.7,3,1,1,"Potential Loyalist"
+12545,97,2,1000.39,2,2,3,"Potential Loyalist"
+12546,68,2,1161.5,3,2,3,"Potential Loyalist"
+12547,219,3,383.58,1,2,1,"Potential Loyalist"
+12548,188,1,95.2,1,1,1,Lost
+12549,597,6,1575.68,1,3,3,"At Risk"
+12550,101,1,964.83,2,1,2,"Potential Loyalist"
+12551,379,1,168,1,1,1,Lost
+12552,60,2,437.82,3,2,1,"Potential Loyalist"
+12553,30,12,4608.75,4,4,3,"Loyal Customer"
+12554,470,1,468.5,1,1,1,Lost
+12555,704,1,129.23,1,1,1,Lost
+12556,72,2,603.71,3,2,2,"Potential Loyalist"
+12557,38,8,18716.14,3,3,4,"Loyal Customer"
+12558,29,1,269.96,4,1,1,"New Customer"
+12559,332,2,561.71,1,2,2,"Potential Loyalist"
+12560,27,3,2134.01,4,2,3,"New Customer"
+12561,324,1,238.85,1,1,1,Lost
+12562,30,9,4966.92,4,3,3,"Loyal Customer"
+12563,430,1,249.24,1,1,1,Lost
+12564,283,1,456.9,1,1,1,Lost
+12565,310,1,145.92,1,1,1,Lost
+12566,108,1,351.65,2,1,1,"Potential Loyalist"
+12567,44,15,13709.86,3,4,4,"Loyal Customer"
+12568,666,1,70,1,1,1,Lost
+12569,24,32,4124.69,4,4,3,"Loyal Customer"
+12570,704,1,77.52,1,1,1,Lost
+12571,61,2,519.61,3,2,2,"Potential Loyalist"
+12572,30,2,1020.42,4,2,3,"New Customer"
+12573,249,5,717.41,1,3,2,"Potential Loyalist"
+12574,337,1,218.45,1,1,1,Lost
+12575,479,2,622.82,1,2,2,"Potential Loyalist"
+12576,57,8,2142.72,3,3,3,"Loyal Customer"
+12577,57,8,1653.75,3,3,3,"Loyal Customer"
+12578,43,4,4642.45,3,2,3,"Potential Loyalist"
+12579,100,1,440.42,2,1,1,"Potential Loyalist"
+12580,268,2,1052.9,1,2,3,"Potential Loyalist"
+12581,61,1,197.71,3,1,1,"Potential Loyalist"
+12582,260,4,1980.4,1,2,3,"Potential Loyalist"
+12583,24,27,14447.44,4,4,4,Champion
+12584,25,9,2338.15,4,3,3,"Loyal Customer"
+12585,256,2,2040.1,1,2,3,"Potential Loyalist"
+12586,39,4,2062.67,3,2,3,"Potential Loyalist"
+12587,29,1,144,4,1,1,"New Customer"
+12588,61,4,958.78,3,2,2,"Potential Loyalist"
+12589,50,8,4695.66,3,3,3,"Loyal Customer"
+12590,233,2,9864.26,1,2,4,"Potential Loyalist"
+12591,339,3,1352.15,1,2,3,"Potential Loyalist"
+12592,114,5,2582.66,2,3,3,"At Risk"
+12593,130,3,418.1,2,2,1,"Potential Loyalist"
+12594,59,15,5090.11,3,4,4,"Loyal Customer"
+12595,526,1,299.02,1,1,1,Lost
+12596,73,2,618.27,3,2,2,"Potential Loyalist"
+12597,41,4,3811.22,3,2,3,"Potential Loyalist"
+12598,31,11,4534.09,3,4,3,"Loyal Customer"
+12599,51,13,2296.72,3,4,3,"Loyal Customer"
+12600,50,21,5043.92,3,4,4,"Loyal Customer"
+12601,211,6,681.26,1,3,2,"Potential Loyalist"
+12602,80,1,153.12,3,1,1,"Potential Loyalist"
+12603,43,1,739.2,3,1,2,"Potential Loyalist"
+12604,101,2,254.18,2,2,1,"Potential Loyalist"
+12605,398,4,1232.95,1,2,3,"Potential Loyalist"
+12606,704,1,21,1,1,1,Lost
+12607,82,1,1579.51,3,1,3,"Potential Loyalist"
+12608,426,1,415.79,1,1,1,Lost
+12609,100,9,3435.86,2,3,3,"At Risk"
+12610,44,5,2099.54,3,3,3,"Loyal Customer"
+12611,74,1,1193.32,3,1,3,"Potential Loyalist"
+12612,96,1,704.04,2,1,2,"Potential Loyalist"
+12613,79,10,6835.07,3,4,4,"Loyal Customer"
+12614,299,1,315.6,1,1,1,Lost
+12615,24,8,5740.98,4,3,4,"Loyal Customer"
+12616,117,3,1131.1,2,2,3,"Potential Loyalist"
+12617,51,1,355.53,3,1,1,"Potential Loyalist"
+12618,43,1,177.31,3,1,1,"Potential Loyalist"
+12619,38,10,3781.38,3,4,3,"Loyal Customer"
+12620,36,3,1339.41,3,2,3,"Potential Loyalist"
+12621,23,35,24775.81,4,4,4,Champion
+12622,254,1,180.1,1,1,1,Lost
+12623,298,7,3747.84,1,3,3,"At Risk"
+12624,128,2,641.13,2,2,2,"Potential Loyalist"
+12625,233,4,5164.88,1,2,4,"Potential Loyalist"
+12626,45,9,6620.48,3,3,4,"Loyal Customer"
+12627,32,7,4478.53,3,3,3,"Loyal Customer"
+12628,26,3,786.46,4,2,2,"New Customer"
+12629,407,2,1558.22,1,2,3,"Potential Loyalist"
+12630,31,2,1270.88,3,2,3,"Potential Loyalist"
+12631,79,6,3481.57,3,3,3,"Loyal Customer"
+12632,542,2,804.88,1,2,2,"Potential Loyalist"
+12633,80,7,5678.16,3,3,4,"Loyal Customer"
+12634,557,2,490,1,2,1,"Potential Loyalist"
+12635,111,4,2930.41,2,2,3,"Potential Loyalist"
+12636,760,1,141,1,1,1,Lost
+12637,89,12,8340.31,3,4,4,"Loyal Customer"
+12638,55,2,921.49,3,2,2,"Potential Loyalist"
+12639,260,3,1312.37,1,2,3,"Potential Loyalist"
+12640,45,3,1174.58,3,2,3,"Potential Loyalist"
+12641,137,1,185.9,2,1,1,"Potential Loyalist"
+12642,47,3,1013.26,3,2,3,"Potential Loyalist"
+12643,150,12,8350.42,2,4,4,"At Risk"
+12644,151,4,1918.49,2,2,3,"Potential Loyalist"
+12645,55,8,3539.3,3,3,3,"Loyal Customer"
+12646,26,2,1346.97,4,2,3,"New Customer"
+12647,44,36,17924.35,3,4,4,"Loyal Customer"
+12648,176,4,1112,2,2,3,"Potential Loyalist"
+12649,129,8,2294.65,2,3,3,"At Risk"
+12650,25,1,314.44,4,1,1,"New Customer"
+12651,356,4,377.75,1,2,1,"Potential Loyalist"
+12652,353,2,1017.03,1,2,3,"Potential Loyalist"
+12653,170,3,4160.83,2,2,3,"Potential Loyalist"
+12654,32,5,601.98,3,3,2,"Loyal Customer"
+12655,445,1,261.35,1,1,1,Lost
+12656,39,8,6407.83,3,3,4,"Loyal Customer"
+12657,33,4,1643.18,3,2,3,"Potential Loyalist"
+12658,40,1,686.05,3,1,2,"Potential Loyalist"
+12659,51,1,91.68,3,1,1,"Potential Loyalist"
+12660,33,1,245.1,3,1,1,"Potential Loyalist"
+12661,458,1,162,1,1,1,Lost
+12662,22,20,6988.02,4,4,4,Champion
+12663,646,2,239.4,1,2,1,"Potential Loyalist"
+12664,30,11,6070.04,4,4,4,Champion
+12665,346,3,313.6,1,2,1,"Potential Loyalist"
+12666,416,1,1248.42,1,1,3,Lost
+12667,80,1,620.13,3,1,2,"Potential Loyalist"
+12668,33,10,11444.68,3,4,4,"Loyal Customer"
+12669,172,3,2744.03,2,2,3,"Potential Loyalist"
+12670,32,7,3760.29,3,3,3,"Loyal Customer"
+12671,628,1,2622.48,1,1,3,Lost
+12672,351,2,437.05,1,2,1,"Potential Loyalist"
+12673,27,3,1230.02,4,2,3,"New Customer"
+12674,60,4,1970.6,3,2,3,"Potential Loyalist"
+12675,575,2,958.5,1,2,2,"Potential Loyalist"
+12676,46,11,2843.09,3,4,3,"Loyal Customer"
+12677,577,2,395.1,1,2,1,"Potential Loyalist"
+12678,64,21,34281.18,3,4,4,"Loyal Customer"
+12679,80,4,1113.02,3,2,3,"Potential Loyalist"
+12680,22,4,880.81,4,2,2,"New Customer"
+12681,36,45,30868.28,3,4,4,"Loyal Customer"
+12682,25,52,24033.91,4,4,4,Champion
+12683,26,21,12696.78,4,4,4,Champion
+12684,29,7,2283.63,4,3,3,"Loyal Customer"
+12685,50,6,2863.08,3,3,3,"Loyal Customer"
+12686,393,1,178.28,1,1,1,Lost
+12687,502,2,2138.91,1,2,3,"Potential Loyalist"
+12688,135,1,4873.81,2,1,3,"Potential Loyalist"
+12689,47,2,1247.61,3,2,3,"Potential Loyalist"
+12690,227,1,389.01,1,1,1,Lost
+12691,50,7,1170.4,3,3,3,"Loyal Customer"
+12692,659,1,110.95,1,1,1,Lost
+12693,149,7,1703.02,2,3,3,"At Risk"
+12694,92,3,1843.35,2,2,3,"Potential Loyalist"
+12695,29,7,1407.12,4,3,3,"Loyal Customer"
+12696,456,2,851.91,1,2,2,"Potential Loyalist"
+12697,50,3,957.59,3,2,2,"Potential Loyalist"
+12698,612,1,339.75,1,1,1,Lost
+12699,439,1,638.11,1,1,2,Lost
+12700,29,4,4939.99,4,2,3,"New Customer"
+12701,101,6,2446.41,2,3,3,"At Risk"
+12702,41,1,219,3,1,1,"Potential Loyalist"
+12703,93,4,1006.53,2,2,3,"Potential Loyalist"
+12704,29,8,2340.84,4,3,3,"Loyal Customer"
+12705,37,14,11762.1,3,4,4,"Loyal Customer"
+12707,313,1,603.42,1,1,2,Lost
+12708,51,18,5314.1,3,4,4,"Loyal Customer"
+12709,37,34,31093.34,3,4,4,"Loyal Customer"
+12710,118,3,1149.02,2,2,3,"Potential Loyalist"
+12711,633,2,1339.05,1,2,3,"Potential Loyalist"
+12712,50,21,7193.66,3,4,4,"Loyal Customer"
+12713,22,1,848.55,4,1,2,"New Customer"
+12714,31,12,14093.71,3,4,4,"Loyal Customer"
+12715,128,1,353.86,2,1,1,"Potential Loyalist"
+12716,25,2,1053.49,4,2,3,"New Customer"
+12717,173,3,1308.91,2,2,3,"Potential Loyalist"
+12718,93,1,238.25,2,1,1,"Potential Loyalist"
+12719,27,2,644.95,4,2,2,"New Customer"
+12720,24,30,8260.67,4,4,4,Champion
+12721,53,8,4013.08,3,3,3,"Loyal Customer"
+12722,107,4,997.63,2,2,2,"Potential Loyalist"
+12723,25,5,725.07,4,3,2,"Loyal Customer"
+12724,27,7,2317.52,4,3,3,"Loyal Customer"
+12725,393,4,2694.56,1,2,3,"Potential Loyalist"
+12726,50,11,4014.6,3,4,3,"Loyal Customer"
+12727,32,10,5679.53,3,4,4,"Loyal Customer"
+12728,93,5,1070.17,2,3,3,"At Risk"
+12729,135,1,453.01,2,1,1,"Potential Loyalist"
+12730,543,1,829.25,1,1,2,Lost
+12731,45,17,25775.71,3,4,4,"Loyal Customer"
+12732,201,1,236.26,1,1,1,Lost
+12733,256,4,2424.87,1,2,3,"Potential Loyalist"
+12734,374,3,639.65,1,2,2,"Potential Loyalist"
+12735,337,2,779.57,1,2,2,"Potential Loyalist"
+12736,354,1,234,1,1,1,Lost
+12737,520,2,3710.5,1,2,3,"Potential Loyalist"
+12738,394,1,310.7,1,1,1,Lost
+12739,100,4,2726.73,2,2,3,"Potential Loyalist"
+12740,85,1,427.6,3,1,1,"Potential Loyalist"
+12741,551,2,406.07,1,2,1,"Potential Loyalist"
+12742,647,1,1201.52,1,1,3,Lost
+12743,156,2,546.43,2,2,2,"Potential Loyalist"
+12744,73,11,25317.06,3,4,4,"Loyal Customer"
+12745,508,3,925.41,1,2,2,"Potential Loyalist"
+12746,562,1,254.55,1,1,1,Lost
+12747,24,26,9276.54,4,4,4,Champion
